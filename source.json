@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1.0,
+  "info": {
+    "name": "MatthewBrockCP360 Apps",
+    "lastUpdate": "2025-02-03T14:00:10.0101065-06:00"
+  },
+  "packages": [{
+    "id": "MatthewBrockCP360.CCC",
+    "version": "1.0.0",
+    "path": "manifests/m/MatthewBrockCP360/CCC/1.0.0/package.yaml"
+  }]
+}
