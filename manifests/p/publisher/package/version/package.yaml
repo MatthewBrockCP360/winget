@@ -1,0 +1,12 @@
+PackageIdentifier: MatthewBrockCP360.CCC
+PackageVersion: 1.0.0
+PackageName: CCC
+Publisher: MatthewBrockCP360
+License: Proprietary
+ShortDescription: Custom Configuration Checker
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://github.com/MatthewBrockCP360/winget/raw/refs/heads/main/manifests/CCC.exe
+    InstallerSha256: ADF2B9C73A480C3C310DE3F7319FE5FE5265C17F04F405AD0EDB53F82D689584
+    Scope: user
