@@ -1,14 +1,12 @@
-{
-  "SchemaVersion": "1.0.0",
-  "Sources": [
+{  
+  "_type": "resource",
+  "resources": [
     {
-      "Name": "MatthewBrockCP360",
-      "Type": "Microsoft.PreIndexed.Package",
-      "Packages": [
+      "id": "MatthewBrockCP360.CCC",
+      "versions": [
         {
-          "PackageIdentifier": "MatthewBrockCP360.CCC",
-          "VersionRegex": "1.0.0",
-          "AdditionalPackageIndexes": []
+          "version": "1.0.0",
+          "path": "manifests/m/MatthewBrockCP360/CCC/1.0.0/package.yaml"
         }
       ]
     }
