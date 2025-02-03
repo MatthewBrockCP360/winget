@@ -1,0 +1,11 @@
+{
+  "Data": {
+    "Packages": [{
+      "Id": "MatthewBrockCP360.CCC",
+      "Versions": [{
+        "Version": "1.0.0",
+        "Path": "manifests/m/MatthewBrockCP360/CCC/1.0.0/package.yaml"
+      }]
+    }]
+  }
+}
